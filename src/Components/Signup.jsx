@@ -10,7 +10,7 @@ const Signup = () => {
             Sign Up
           </p>
           <p className="py-2">
-            Submit the form below to register your favorite playlist
+            Submit the form below to register
           </p>
         </div>
 
